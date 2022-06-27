@@ -13,12 +13,12 @@ header{
     min-width: 200px;
     height: 30vh;
     min-height: 200px;
-    background: blue;
+    background: lawngreen;
 }
 
 #content{
     width: 80%;
     height: 100vh;
-    background: aqua;
+    background: #a49184;
 }
 
