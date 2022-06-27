@@ -1,3 +1,28 @@
+commit 2d61e2989ba7730fd3fb6c08f79cd5d76660eacc
+Author: marta <marta.moralescarmona@devo.com>
+Date:   Mon Jun 27 16:59:25 2022 +0200
+
+    Modificamos mas contenido desde local
+
+commit 155033e8e4a6bc5f83984e5adc7271244b5d60fd
+Merge: 64116a0 c38a9a4
+Author: marta <marta.moralescarmona@devo.com>
+Date:   Mon Jun 27 12:15:40 2022 +0200
+
+    Fusionamos las ramas
+
+commit c38a9a4119d04f4079dc066ea6901fc5b203f81c
+Author: marta <marta.moralescarmona@devo.com>
+Date:   Mon Jun 27 12:02:33 2022 +0200
+
+    Cambiamos colores
+
+commit af75d237a585cfcac280a81a45c37ae4442dbb22
+Author: marta <marta.moralescarmona@devo.com>
+Date:   Mon Jun 27 11:55:30 2022 +0200
+
+    cambiamos el fondo a rojo oscuro
+
 commit 64116a0ecf8d7654912e4c00a71f178f15c574b6
 Author: marta <marta.moralescarmona@devo.com>
 Date:   Mon Jun 27 11:51:44 2022 +0200
