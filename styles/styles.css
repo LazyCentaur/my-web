@@ -1,0 +1,23 @@
+body{
+    background: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    width: 20%;
+    min-width: 200px;
+    height: 30vh;
+    min-height: 200px;
+    background: blue;
+}
+
+#content{
+    width: 80%;
+    height: 100vh;
+    background: aqua;
+}
+
