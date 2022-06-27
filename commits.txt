@@ -1,0 +1,11 @@
+commit 64116a0ecf8d7654912e4c00a71f178f15c574b6
+Author: marta <marta.moralescarmona@devo.com>
+Date:   Mon Jun 27 11:51:44 2022 +0200
+
+    Cambiamos la tipo y el color de fondo
+
+commit d16c51a7bf0e4a8f5d2ec27ea998671cd5e32fe7
+Author: marta <marta.moralescarmona@devo.com>
+Date:   Mon Jun 27 11:48:21 2022 +0200
+
+    Esta es la rama principal
